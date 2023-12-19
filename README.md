@@ -1,4 +1,8 @@
 ﻿[![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellowgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+Reference Videos:
+- [Building a GUI based PowerShell script using FREE Tools – Method 1](https://www.youtube.com/watch?v=6HNbk9VylLc)
+- [Building a GUI based PowerShell script using FREE Tools – Method 2](https://www.youtube.com/watch?v=Xkm4PCVAL7M)
  
  # ConvertForm
 
